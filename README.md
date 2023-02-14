@@ -1,1 +1,1 @@
-My Readme
+My readme for shell basics
